@@ -1,9 +1,10 @@
 ﻿using HR.LeaveManagement.Domain.Common;
+using HR.LeaveManagement.Domain.LeaveTypes;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace HR.LeaveManagement.Domain
+namespace HR.LeaveManagement.Domain.LeaveRequests
 {
     public class LeaveRequest: BaseDomainEntity
     {
